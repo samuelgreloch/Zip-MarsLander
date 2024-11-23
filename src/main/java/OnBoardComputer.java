@@ -4,7 +4,7 @@ public class OnBoardComputer implements BurnStream {
     public int getNextBurn(DescentEvent status) {
         int burn = 0;
         
-        System.out.println(burn); /*hack!*/
+       System.out.println(burn); /*hack!*/
         return burn;
     }
 
